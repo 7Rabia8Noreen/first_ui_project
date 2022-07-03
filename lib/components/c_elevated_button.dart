@@ -32,7 +32,7 @@ class CElevatedButton extends StatelessWidget {
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(12.r),
         ),
-        padding: EdgeInsets.symmetric(horizontal: 48.w, vertical: 8.h),
+        padding: EdgeInsets.symmetric(horizontal: 10.w, vertical: 8.h),
         primary: Color(0xFFFFCF57),
         textStyle: TextStyle(
           fontSize: 14.sp,

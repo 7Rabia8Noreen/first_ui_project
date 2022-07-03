@@ -23,8 +23,8 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.blue,
         ),
 
-        home: HomeScreen(),
-        //home: Detail(),
+        //home: HomeScreen(),
+        home: Detail(),
       ),
       designSize: const Size(375, 1140),
     );
